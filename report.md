@@ -175,5 +175,7 @@ The full repository is deterministic, self-contained, and executes in $<3$ secon
 [2] Alex Forman, Jeffrey Ladish, et al., [Swarm Traces: Forensic Analysis of the OpenAI Evaluation Agent Incident](https://swarmtraces.org/), 25 September 2026; Hugging Face Dataset *vopi/OpenAI-HF-Hack-SwarmTraces*.  
 [3] Collin Greenblatt, Carson Denison, Benjamin Shlegeris, et al., [AI Control: Improving Safety Despite Intentional Subversion](https://arxiv.org/abs/2312.06942), *Advances in Neural Information Processing Systems (NeurIPS)*, 2024.  
 [4] Sankalp Motwani, Christian Schroeder de Witt, et al., [Secret Collusion among AI Agents](https://proceedings.neurips.cc/paper_files/paper/2024/hash/861f7dad098aec1c3560fb7add468d41-Abstract-Conference.html), *Advances in Neural Information Processing Systems (NeurIPS)*, 2024.  
+[5] Leslie Lamport, [Time, Clocks, and the Ordering of Events in a Distributed System](https://dl.acm.org/doi/10.1145/359545.359563), *Communications of the ACM (CACM)* 21(7):558–565, 1978.  
+[6] Jerome H. Saltzer and Michael D. Schroeder, [The Protection of Information in Computer Systems](https://ieeexplore.ieee.org/document/1451869), *Proceedings of the IEEE* 63(9):1278–1308, 1975.  
 
 > **Safety Notice:** The authors make no claim that this benchmark reproduces proprietary systems. All action requests, agent identities, and resource identifiers are synthetic strings evaluated within an isolated research sandbox.

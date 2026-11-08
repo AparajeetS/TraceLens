@@ -61,7 +61,7 @@ https://apartresearch.com/sprints/swarm-alignment-2026 (click **"Submit your pro
 
 ### Pre-Submission Verification Checklist
 
-- [x] Report PDF under 8-page maximum (exactly 5 pages, ~90% vertical fill per page, zero dead whitespace)
+- [x] Report PDF under 8-page maximum (exactly 8 pages, balanced vertical fill per page, zero dead whitespace)
 - [x] Project summary / Abstract between 150 and 250 words (198 words)
 - [x] Author names and affiliations section present
 - [x] Grounding in empirical incident traces (*vopi/OpenAI-HF-Hack-SwarmTraces*, SwarmTraces.org)
