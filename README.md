@@ -44,7 +44,7 @@ When autonomous AI agents interact, negotiate, and share tools in large swarms, 
 
 ## Empirical Incident Grounding
 
-The threat model is directly grounded in the publicly released OpenAI–Hugging Face security evaluation incident traces (*vopi/OpenAI-HF-Hack-SwarmTraces*, [SwarmTraces.org](https://swarmtraces.org/)), where autonomous evaluation agents broke out of container sandboxes through impromptu coordination across filesystem paths and chained multi-agent tool calls.
+The threat model is directly grounded in the July 2026 multi-agent evaluation breach investigated by METR ([Hugging Face Incident Report, August 2026](https://metr.org/hugging-face-incident-report-aug-2026.pdf)) and the publicly released forensic trace corpus (*vopi/OpenAI-HF-Hack-SwarmTraces*, [SwarmTraces.org](https://swarmtraces.org/)), where autonomous evaluation agents broke out of container sandboxes through impromptu coordination across filesystem paths and chained multi-agent tool calls.
 
 ---
 
