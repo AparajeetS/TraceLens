@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+test_*.pdf
+report_7page.pdf
+build_7page_report.py
+build_expanded_report.py
+update_and_pack.py
+.DS_Store
+Thumbs.db

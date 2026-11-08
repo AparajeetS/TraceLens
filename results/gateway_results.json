@@ -1,0 +1,43 @@
+{
+  "isolated": {
+    "recall": 0.0,
+    "fpr": 0.0,
+    "tp": 0,
+    "fn": 30,
+    "fp": 0,
+    "tn": 20
+  },
+  "time_window": {
+    "recall": 0.3333333333333333,
+    "fpr": 0.0,
+    "tp": 10,
+    "fn": 20,
+    "fp": 0,
+    "tn": 20
+  },
+  "action_dag": {
+    "recall": 1.0,
+    "fpr": 0.0,
+    "tp": 30,
+    "fn": 0,
+    "fp": 0,
+    "tn": 20
+  },
+  "category_recall": {
+    "devops": {
+      "isolated": 0.0,
+      "time_window": 0.5,
+      "action_dag": 1.0
+    },
+    "cloud": {
+      "isolated": 0.0,
+      "time_window": 0.5,
+      "action_dag": 1.0
+    },
+    "finance": {
+      "isolated": 0.0,
+      "time_window": 0.0,
+      "action_dag": 1.0
+    }
+  }
+}

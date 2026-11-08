@@ -1,0 +1,62 @@
+[
+  {
+    "visibility": 1.0,
+    "episodes_per_class": 1000,
+    "true_positives": 1000,
+    "false_positives": 0,
+    "recall": 1.0,
+    "recall_ci_low": 0.9961731014136095,
+    "recall_ci_high": 1.0,
+    "false_positive_rate": 0.0,
+    "fpr_ci_low": 0.0,
+    "fpr_ci_high": 0.003826898586390522,
+    "masked_recurrence_fpr": 0.0,
+    "raw_recurrence_fpr": 1.0,
+    "within_episode_frequency_fpr": 0.0
+  },
+  {
+    "visibility": 0.75,
+    "episodes_per_class": 1000,
+    "true_positives": 998,
+    "false_positives": 0,
+    "recall": 0.998,
+    "recall_ci_low": 0.9927370411104123,
+    "recall_ci_high": 0.9994513678975429,
+    "false_positive_rate": 0.0,
+    "fpr_ci_low": 0.0,
+    "fpr_ci_high": 0.003826898586390522,
+    "masked_recurrence_fpr": 0.0,
+    "raw_recurrence_fpr": 1.0,
+    "within_episode_frequency_fpr": 0.375
+  },
+  {
+    "visibility": 0.5,
+    "episodes_per_class": 1000,
+    "true_positives": 862,
+    "false_positives": 0,
+    "recall": 0.862,
+    "recall_ci_low": 0.8392335563875687,
+    "recall_ci_high": 0.8819957690358847,
+    "false_positive_rate": 0.0,
+    "fpr_ci_low": 0.0,
+    "fpr_ci_high": 0.003826898586390522,
+    "masked_recurrence_fpr": 0.0,
+    "raw_recurrence_fpr": 1.0,
+    "within_episode_frequency_fpr": 0.73
+  },
+  {
+    "visibility": 0.25,
+    "episodes_per_class": 1000,
+    "true_positives": 308,
+    "false_positives": 0,
+    "recall": 0.308,
+    "recall_ci_low": 0.2801657299627953,
+    "recall_ci_high": 0.3373037990943787,
+    "false_positive_rate": 0.0,
+    "fpr_ci_low": 0.0,
+    "fpr_ci_high": 0.003826898586390522,
+    "masked_recurrence_fpr": 0.0,
+    "raw_recurrence_fpr": 1.0,
+    "within_episode_frequency_fpr": 0.13
+  }
+]
