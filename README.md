@@ -69,7 +69,7 @@ python gateway_bench.py
 python make_gateway_figure.py
 
 # 3. Compile the submission-ready 8-page research paper PDF
-python build_perfect_8page.py
+python build_unified_report.py
 ```
 
 ---
@@ -81,10 +81,9 @@ python build_perfect_8page.py
 ├── gateway_bench.py         # Layer 2 request-slicing scenario generator & Action-Dependency DAG
 ├── make_figure.py           # Renders Layer 1 visibility results (results/visibility_results.png)
 ├── make_gateway_figure.py   # Renders Layer 2 gateway benchmark (results/gateway_results.png)
-├── build_perfect_8page.py   # Authoritative 8-page publication PDF generator
+├── build_unified_report.py  # Authoritative 8-page publication PDF generator
 ├── report_unified.pdf       # Compiled 8-page paper (Aparajeet Shadangi, Track 4)
 ├── report.md                # Markdown version of the complete research paper
-├── submission_fields.md     # Official Apart Research hackathon submission field checklist
 ├── requirements.txt         # Python dependencies
 ├── .gitignore               # Clean git exclusion rules
 └── results/
